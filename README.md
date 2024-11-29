@@ -1,4 +1,4 @@
-# employee-management-system
+# Employee Management System with Basic CRUD Capabilities
 A sample project developed while learning the basics of Spring Framework &amp; Thymeleaf Template Engine.
 
 ## Introduction
