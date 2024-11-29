@@ -1,13 +1,11 @@
 # Employee Management System with Basic CRUD Capabilities
-A sample project developed while learning the basics of Spring Framework &amp; Thymeleaf Template Engine.
+A Java Web App developed while learning the basics of Spring Framework & Thymeleaf Template Engine.
 
 ## Introduction
-- This project was developed in the course of learning how to implement Spring Framework in Java.
-- I used IntelliJ Idea from JetBrains as the Integrated Development Environment (IDE) for this project.
-- It is built upon Java Development Kit version 22.0.2 using MySQL as Database Management System.
-- It utilizes Spring Framework for the backend along with Thymeleaf Template Engine for the frontend.
 
 ## Project Details
+
+### Summary
 
 ### Views
 
@@ -21,5 +19,13 @@ A sample project developed while learning the basics of Spring Framework &amp; T
 ![Add Employee Page](https://github.com/user-attachments/assets/4488c5e7-5811-45cb-b53c-6e238594835a)
 
 ### Skills Highlighted
-- Implementing Bootstrap CSS & JavaScript through CDN Links.
-- Implementing Thymeleaf Template Engine in HTML Templates.
+- Languages: Java & JavaScript
+- Front-End: HTML, CSS, Bootstrap Framework & Thymeleaf Template Engine
+- Back-End: Hibernate Framework & Spring Framework
+- Database: MySQL Database
+
+## Additional Info
+- This project was developed in the course of learning how to implement Spring Framework in Java.
+- I used IntelliJ Idea from JetBrains as the Integrated Development Environment (IDE) for this project.
+- It is built upon Java Development Kit version 22.0.2 using MySQL as Database Management System.
+- It utilizes Spring Framework for the backend along with Thymeleaf Template Engine for the frontend.
