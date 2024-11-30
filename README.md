@@ -1,11 +1,16 @@
-# Employee Management System with Basic CRUD Capabilities
-A Java Web App developed while learning the basics of Spring Framework & Thymeleaf Template Engine.
+# EmpSystem
+A Java Web App developed while learning the basics of Spring Framework, Bootstrap Framework & Thymeleaf Template Engine.
 
 ## Introduction
+- EmpSystem is an Employee Management System with Basic CRUD Capabilities & Simplified UI.
+- It was developed in the course of learning how to implement Spring Framework with Java.
 
 ## Project Details
 
 ### Summary
+- EmpSystem is a Java Web App built using Spring Framework for Back-End Development.
+- It utilizes Thymeleaf Template Engine along with Bootstrap Framework for Front-End.
+- It features an index of employees with the option to add, edit & remove employees.
 
 ### Views
 This web app consists of 3 distinct views viz. Employee List, Add Employee & Edit Employee.
@@ -24,10 +29,11 @@ This web app consists of 3 distinct views viz. Employee List, Add Employee & Edi
 - CSS
 - JavaScript
 - Java
+- Hibernate
 - Spring
-- SQL
 
 ## Additional Info
+The EmpSystem project is developed using the following:
 - Build Tool: Maven
 - Database: MySQL
 - IDE: IntelliJ Idea
