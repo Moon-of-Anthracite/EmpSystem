@@ -8,6 +8,7 @@ A Java Web App developed while learning the basics of Spring Framework & Thymele
 ### Summary
 
 ### Views
+This web app consists of 3 distinct views viz. Employee List, Add Employee & Edit Employee.
 
 #### Employee List
 - The Employee List view serves as an index of all the employees in the database.
@@ -15,17 +16,19 @@ A Java Web App developed while learning the basics of Spring Framework & Thymele
 
 #### Add Employee & Edit Employee
 - The Add Employees view is used to add employees to the database one at a time. It redirects to the Employee List.
-- Along with being used for adding new employees to database, the same layout is also used to edit employees.
+- Along with being used for adding new employees to the database, the same layout is also used to edit employees.
 ![Add Employee Page](https://github.com/user-attachments/assets/4488c5e7-5811-45cb-b53c-6e238594835a)
 
 ### Skills Highlighted
-- Languages: Java & JavaScript
-- Front-End: HTML, CSS, Bootstrap Framework & Thymeleaf Template Engine
-- Back-End: Hibernate Framework & Spring Framework
-- Database: MySQL Database
+- HTML
+- CSS
+- JavaScript
+- Java
+- Spring
+- SQL
 
 ## Additional Info
-- This project was developed in the course of learning how to implement Spring Framework in Java.
-- I used IntelliJ Idea from JetBrains as the Integrated Development Environment (IDE) for this project.
-- It is built upon Java Development Kit version 22.0.2 using MySQL as Database Management System.
-- It utilizes Spring Framework for the backend along with Thymeleaf Template Engine for the frontend.
+- Build Tool: Maven
+- Database: MySQL
+- IDE: IntelliJ Idea
+- JDK: Vesion 22.0.2
