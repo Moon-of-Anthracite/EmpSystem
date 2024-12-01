@@ -2,7 +2,7 @@
 A Java Web App developed while learning the basics of Spring Framework, Bootstrap Framework & Thymeleaf Template Engine.
 
 ## Introduction
-- EmpSystem is an Employee Management System with Basic CRUD Capabilities & Simplified UI.
+- EmpSystem is an Employee Management System with Basic CRUD Capabilities.
 - It was developed in the course of learning how to implement Spring Framework with Java.
 
 ## Project Details
@@ -31,10 +31,10 @@ This web app consists of 3 distinct views viz. Employee List, Add Employee & Edi
 - Java
 - Hibernate
 - Spring
+- Bootstrap
+- Thymeleaf
 
 ## Additional Info
-The EmpSystem project is developed using the following:
-- Build Tool: Maven
-- Database: MySQL
-- IDE: IntelliJ Idea
-- JDK: Vesion 22.0.2
+| Build Tool | Database | IDE | JDK |
+| --- | --- | --- | --- |
+| Apache Maven | MySQL Database | JetBrains IntelliJ Idea | Vesion 22.0.2 |
