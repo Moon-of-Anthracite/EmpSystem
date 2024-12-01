@@ -1,5 +1,5 @@
 # EmpSystem
-A Java Web App developed while learning the basics of Spring Framework & Thymeleaf Template Engine.
+A simple java web app developed while learning the basics of Spring Framework & Thymeleaf Template Engine.
 
 ## Introduction
 - EmpSystem is an Employee Management System with Basic CRUD Capabilites.
